@@ -1,6 +1,6 @@
 # Taller de Nivelación — Programación en Java
 
-¡Bienvenida/o! Este repositorio reúne todos los ejercicios desarrollados durante el taller de nivelación de programación. Aquí pongo en práctica los conocimientos básicos de lógica y programación en Java. 🎓
+¡Bienvenida/o! Este repositorio reúne todos los ejercicios desarrollados durante el taller de nivelación de programación. Aquí pongo en práctica los conocimientos básicos de lógica y programación en Java. 
 
 ---
 
