@@ -5,7 +5,7 @@
 ---
 
 ## Propósito del proyecto
-El objetivo de este taller es reforzar y poner a punto los conocimientos fundamentales de programación, resolviendo ejercicios que van desde operaciones matemáticas hasta el manejo y manipulación de cadenas de texto. Todo con el fin de iniciar el semestre con bases sólidas en Java. ☕
+El objetivo de este taller es reforzar y poner a punto los conocimientos fundamentales de programación, resolviendo ejercicios que van desde operaciones matemáticas hasta el manejo y manipulación de cadenas de texto. Todo con el fin de iniciar el semestre con bases sólidas en Java. 
 
 ---
 
