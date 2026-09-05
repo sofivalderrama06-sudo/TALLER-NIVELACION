@@ -17,6 +17,7 @@ Git organiza el ciclo de vida de las modificaciones mediante **tres estados o zo
 2. **Staging Area / Index (Área de preparación):** Es un espacio borrador o de inspección previa (almacenado técnicamente en *.git/index*). Permite agrupar modificaciones puntuales provenientes del directorio de trabajo antes de realizar una confirmación definitiva. Esto ayuda a crear *commits* limpios y atómicos que contengan únicamente cambios relacionados entre sí.
 3. **Repository (Repositorio local o base de datos):** Es la zona donde Git guarda de forma permanente e inmutable las fotografías del proyecto (*snapshots* o commits). Una vez que un cambio entra al repositorio local, queda registrado en el historial del proyecto.
 
+
 ---
 
 ### Pregunta 3:
